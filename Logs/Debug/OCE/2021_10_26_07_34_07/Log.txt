@@ -1,0 +1,33 @@
+(07:34:08) **************************************** Script Run Details ***********************************
+(07:34:08) Application Name: OCE
+(07:34:08) Script Name: ContentCenterFlow1
+(07:34:08) Test Environment: Local
+(07:34:08) Test Cases Covered: loginVerification
+(07:34:08) Executed By: u1102238
+(07:34:08) Execution Date: 10/26/2021 07:34:08
+(07:34:08) Machine Name: USOVE1WLY40786
+(07:34:08) Run Type: debug
+(07:34:08) Release: 2021_Q1_OCE
+(07:34:08) BuildNumber: 01.0110
+(07:34:08) Browser: chrome_94.0.4606.81
+(07:34:08) AutomationTool: Selenium_Java
+(07:34:08) **************************************** End Run Details***************************************
+(07:34:08) Reading the excel test data sheet
+(07:34:08) @@Iteration:null
+(07:34:33) PASS: Function = verifyUserProfile
+(07:34:34) **************************************** Script Run Details ***********************************
+(07:34:34) Application Name: OCE
+(07:34:34) Script Name: ContentCenterFlow1
+(07:34:34) Test Environment: Local
+(07:34:34) Test Cases Covered: loginVerification
+(07:34:34) Executed By: u1102238
+(07:34:34) Execution Date: 10/26/2021 07:34:34
+(07:34:34) Machine Name: USOVE1WLY40786
+(07:34:34) Run Type: debug
+(07:34:34) Release: 2021_Q1_OCE
+(07:34:34) BuildNumber: 01.0110
+(07:34:34) Browser: chrome_94.0.4606.81
+(07:34:34) AutomationTool: Selenium_Java
+(07:34:34) **************************************** End Run Details***************************************
+(07:34:34) Reading the excel test data sheet
+(07:34:34) @@Iteration:null

@@ -1,0 +1,53 @@
+(09:00:36) **************************************** Script Run Details ***********************************
+(09:00:36) Application Name: OCE
+(09:00:36) Script Name: ContentCenterFlow1
+(09:00:36) Test Environment: Local
+(09:00:36) Test Cases Covered: loginVerification
+(09:00:36) Executed By: u1102238
+(09:00:36) Execution Date: 10/22/2021 09:00:36
+(09:00:36) Machine Name: USOVE1WLY40786
+(09:00:36) Run Type: debug
+(09:00:36) Release: 2021_Q1_OCE
+(09:00:36) BuildNumber: 01.0110
+(09:00:36) Browser: chrome_94.0.4606.81
+(09:00:36) AutomationTool: Selenium_Java
+(09:00:36) **************************************** End Run Details***************************************
+(09:00:36) Reading the excel test data sheet
+(09:00:36) @@Iteration:null
+(09:00:49) PASS: Function = verifyUserProfile
+(09:00:50) **************************************** Script Run Details ***********************************
+(09:00:50) Application Name: OCE
+(09:00:50) Script Name: ContentCenterFlow1
+(09:00:50) Test Environment: Local
+(09:00:50) Test Cases Covered: NewContentCreation
+(09:00:50) Executed By: u1102238
+(09:00:50) Execution Date: 10/22/2021 09:00:50
+(09:00:50) Machine Name: USOVE1WLY40786
+(09:00:50) Run Type: debug
+(09:00:50) Release: 2021_Q1_OCE
+(09:00:50) BuildNumber: 01.0110
+(09:00:50) Browser: chrome_94.0.4606.81
+(09:00:50) AutomationTool: Selenium_Java
+(09:00:50) **************************************** End Run Details***************************************
+(09:00:50) Reading the excel test data sheet
+(09:00:50) @@Iteration:null
+(09:00:53) PASS: Function = verifyNavigatingToNewContentPage
+(09:01:45) PASS: Function = verifyContentSubmission
+(09:01:46) **************************************** Script Run Details ***********************************
+(09:01:46) Application Name: OCE
+(09:01:46) Script Name: ContentCenterFlow1
+(09:01:46) Test Environment: Local
+(09:01:46) Test Cases Covered: NewContentCreation
+(09:01:46) Executed By: u1102238
+(09:01:46) Execution Date: 10/22/2021 09:01:46
+(09:01:46) Machine Name: USOVE1WLY40786
+(09:01:46) Run Type: debug
+(09:01:46) Release: 2021_Q1_OCE
+(09:01:46) BuildNumber: 01.0110
+(09:01:46) Browser: chrome_94.0.4606.81
+(09:01:46) AutomationTool: Selenium_Java
+(09:01:46) **************************************** End Run Details***************************************
+(09:01:46) Reading the excel test data sheet
+(09:01:46) @@Iteration:null
+(09:01:48) PASS: Function = verifyNavigatingToNewContentPage
+(09:02:38) PASS: Function = verifyContentSubmission

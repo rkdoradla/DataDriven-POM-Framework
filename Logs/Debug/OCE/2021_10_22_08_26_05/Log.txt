@@ -1,0 +1,16 @@
+(08:26:05) **************************************** Script Run Details ***********************************
+(08:26:05) Application Name: OCE
+(08:26:05) Script Name: ContentCenterFlow1
+(08:26:05) Test Environment: Local
+(08:26:05) Test Cases Covered: NewContentCreation
+(08:26:05) Executed By: u1102238
+(08:26:05) Execution Date: 10/22/2021 08:26:05
+(08:26:05) Machine Name: USOVE1WLY40786
+(08:26:05) Run Type: debug
+(08:26:05) Release: 2021_Q1_OCE
+(08:26:05) BuildNumber: 01.0110
+(08:26:05) Browser: chrome_94.0.4606.81
+(08:26:05) AutomationTool: Selenium_Java
+(08:26:05) **************************************** End Run Details***************************************
+(08:26:05) Reading the excel test data sheet
+(08:26:05) @@Iteration:null
